@@ -28,6 +28,6 @@ Contributions are welcome! If you'd like to add new features or improve the exis
 
 **Author**
 
-[Laraib Khlaid]
+Laraib Khlaid
 
 I hope this helps
