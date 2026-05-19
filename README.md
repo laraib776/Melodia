@@ -1,14 +1,14 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   ███╗   ███╗███████╗██╗      ██████╗ ██████╗ ██╗ █████╗        ║
-║   ████╗ ████║██╔════╝██║     ██╔═══██╗██╔══██╗██║██╔══██╗       ║
-║   ██╔████╔██║█████╗  ██║     ██║   ██║██║  ██║██║███████║       ║
-║   ██║╚██╔╝██║██╔══╝  ██║     ██║   ██║██║  ██║██║██╔══██║       ║
-║   ██║ ╚═╝ ██║███████╗███████╗╚██████╔╝██████╔╝██║██║  ██║       ║
-║   ╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝       ║
+║   ███╗   ███╗███████╗██╗      ██████╗ ██████╗ ██╗ █████╗         ║
+║   ████╗ ████║██╔════╝██║     ██╔═══██╗██╔══██╗██║██╔══██╗        ║
+║   ██╔████╔██║█████╗  ██║     ██║   ██║██║  ██║██║███████║        ║
+║   ██║╚██╔╝██║██╔══╝  ██║     ██║   ██║██║  ██║██║██╔══██║        ║
+║   ██║ ╚═╝ ██║███████╗███████╗╚██████╔╝██████╔╝██║██║  ██║        ║
+║   ╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝        ║
 ║                                                                  ║
-║         🎵  Where Every Genre Tells a Story  🎶                  ║
+║         🎵  Where Every Genre Tells a Story  🎶                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -67,10 +67,10 @@
   ╭──────────────────┬──────────────────────────────────────────╮
   │  Layer           │  Technology                              │
   ├──────────────────┼──────────────────────────────────────────┤
-  │  🏗️  Structure    │  HTML5                                  │
-  │  🎨  Styling      │  CSS3  (responsive layout & animations) │
-  │  ⚙️  Behaviour    │  Vanilla JavaScript  (slideshow, menus) │
-  │  🔗  External     │  Billboard  (artist profile links)      │
+  │  🏗️  Structure   │  HTML5                                  │
+  │  🎨  Styling     │  CSS3  (responsive layout & animations) │
+  │  ⚙️  Behaviour   │  Vanilla JavaScript  (slideshow, menus) │
+  │  🔗  External    │  Billboard  (artist profile links)      │
   ╰──────────────────┴──────────────────────────────────────────╯
 ```
 
@@ -175,9 +175,9 @@ This project is open source under the **MIT License** — free to use, modify, a
 ║                                                          ║
 ║    Music is the one thing that never needs translation.  ║
 ║                                                          ║
-║          Melodia speaks every genre.  🎵🎶🎸🎹           ║
+║          Melodia speaks every genre.  🎵🎶🎸🎹         ║
 ║                                                          ║
-║               Made with ❤️  by  Laraib Khalid            ║
+║               Made with ❤️  by  Laraib Khalid           ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
