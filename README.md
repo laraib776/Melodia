@@ -49,7 +49,7 @@
 
 ---
 
-## ┌─── ✨ Features
+## ✨ Features
 
 | 🌟 Feature | Details |
 |---|---|
@@ -61,7 +61,7 @@
 
 ---
 
-## ┌─── 🛠️ Technology Stack
+##  🛠️ Technology Stack
 
 ```
   ╭──────────────────┬──────────────────────────────────────────╮
@@ -76,7 +76,7 @@
 
 ---
 
-## ┌─── 🚀 Getting Started
+## 🚀 Getting Started
 
 No installation required — Melodia runs straight in your browser!
 
@@ -104,7 +104,7 @@ http://localhost:8000
 
 ---
 
-## ┌─── 🎵 What's Inside
+## 🎵 What's Inside
 
 ```
   🎤  Artist Slideshow      →   Rotating showcase of popular artists
@@ -116,7 +116,7 @@ http://localhost:8000
 
 ---
 
-## ┌─── 📁 Project Structure
+##  📁 Project Structure
 
 ```
 📦 Melodia/
@@ -137,7 +137,7 @@ http://localhost:8000
 
 ---
 
-## ┌─── 🌐 Browser Support
+##  🌐 Browser Support
 
 ```
   ✅  Chrome     ✅  Firefox     ✅  Safari     ✅  Edge
@@ -147,7 +147,7 @@ Uses only standard web technologies — **HTML5 · CSS3 · Vanilla JavaScript**
 
 ---
 
-## ┌─── 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are always welcome and appreciated! 💖
 
@@ -162,7 +162,7 @@ Got a new genre page, a better slideshow, or more artist profiles to add? All pu
 
 ---
 
-## ┌─── 📜 License
+##  📜 License
 
 This project is open source under the **MIT License** — free to use, modify, and share.
 
