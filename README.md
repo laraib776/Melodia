@@ -27,7 +27,7 @@
 
 ---
 
-## 🎧 Your Music Taste. Your Artists. Your World.
+## 🎧 Your Music Taste. Your Favourite Artists. Your World.
 
 > **Pop. Hip-Hop. Jazz. Classical. EDM. It's all here.**
 > Melodia isn't just a website — it's a love letter to music, wrapped in a sleek interface that feels as good as your favourite playlist sounds.
